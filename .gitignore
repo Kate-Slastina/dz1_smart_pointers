@@ -1,0 +1,4 @@
+.vscode/
+tests_asan.dSYM/
+benchmark
+tests_asan
